@@ -95,15 +95,15 @@ http://hdtv.lzu6.edu.cn/hls/xmtv.m3u8
 http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/青海卫视.png",青海卫视
 http://hdtv.lzu6.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-logo="",CETV-1
+#EXTINF:-1 tvg-logo="",中国教育1台
 http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-logo="",CETV-3
+#EXTINF:-1 tvg-logo="",中国教育3台
 http://hdtv.lzu6.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-logo="",CETV-4
+#EXTINF:-1 tvg-logo="",中国教育4台
 http://hdtv.lzu6.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-logo="",CHC高清电影
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="",CHC家庭影院
+#EXTINF:-1 tvg-logo="",CHC家庭电影
 http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-logo="",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
