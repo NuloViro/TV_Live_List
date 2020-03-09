@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-1.png",CCTV1
-http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210101.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-2.png",CCTV2
 http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-3.png",CCTV3
