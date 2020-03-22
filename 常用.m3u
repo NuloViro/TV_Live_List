@@ -30,9 +30,7 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204401.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/cctv/CCTV-15.png",CCTV15
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205001.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/湖南卫视.png",湖南卫视
-
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296201.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/浙江卫视.png",浙江卫视
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295501.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/cn/weishi/东方卫视.png",东方卫视
