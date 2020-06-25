@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-1.png",CCTV1
-http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-2.png",CCTV2
 http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-3.png",CCTV3
