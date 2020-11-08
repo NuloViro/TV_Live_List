@@ -95,10 +95,6 @@ http://hdtv.haust.edu.cn/hls/xmtv.m3u8
 http://hdtv.haust.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/青海卫视.png",青海卫视
 http://hdtv.haust.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CETV-1.png",中国教育1台
-CETC-1,http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/延边卫视.png",延边卫视
-http://hdtv.lzu6.edu.cn/hls/hls161.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/国家地理.png",国家地理
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC高清电影.png",CHC高清电影
