@@ -106,4 +106,4 @@ http://hdtv.haust.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC家庭影院.png",CHC家庭影院
 http://hdtv.haust.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-logo="",CHC动作电影
-http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
+http://hdtv.haust.edu.cn/hls/chcatv.m3u8
