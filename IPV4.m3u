@@ -79,8 +79,6 @@ http://hdtv.haust.edu.cn/hls/gzhd.m3u8
 http://hdtv.haust.edu.cn/hls/sxtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/宁夏卫视.png",宁夏卫视
 http://hdtv.haust.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/山西卫视.png",山西卫视
-http://hdtv.haust.edu.cn/hls/sxrtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/甘肃卫视.png",甘肃卫视
 http://hdtv.haust.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/新疆卫视.png",新疆卫视
