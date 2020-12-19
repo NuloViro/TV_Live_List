@@ -29,6 +29,8 @@ http://hdtv.lzu6.edu.cn/hls/cctv13.m3u8
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-15.png",CCTV15
 http://hdtv.lzu6.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC高清电影.png",CHC高清电影
+http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/湖南卫视.png",湖南卫视
 http://hdtv.lzu6.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/浙江卫视.png",浙江卫视
@@ -95,19 +97,5 @@ http://hdtv.lzu6.edu.cn/hls/xmtv.m3u8
 http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/青海卫视.png",青海卫视
 http://hdtv.lzu6.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CETV-1.png",中国教育1台
-http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CETV-3.png",中国教育3台
-http://hdtv.lzu6.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CETV-4.png",中国教育4台
-http://hdtv.lzu6.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/延边卫视.png",延边卫视
 http://hdtv.lzu6.edu.cn/hls/hls161.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/国家地理.png",国家地理
-http://hdtv.lzu6.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC高清电影.png",CHC高清电影
-http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC家庭影院.png",CHC家庭影院
-http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 tvg-logo="",CHC动作电影
-http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
