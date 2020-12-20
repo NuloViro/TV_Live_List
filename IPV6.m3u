@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-1.png",CCTV1
-http://hdtv.lzu6.edu.cn/hls/hls74a2.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-2.png",CCTV2
 http://hdtv.lzu6.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-3.png",CCTV3
@@ -12,7 +12,7 @@ http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-6.png",CCTV6
 http://hdtv.lzu6.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-7.png",CCTV7
-http://hdtv.lzu6.edu.cn/hls/hls136.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-8.png",CCTV8
 http://hdtv.lzu6.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-9.png",CCTV9
@@ -20,15 +20,15 @@ http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-10.png",CCTV10
 http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-11.png",CCTV11
-http://hdtv.lzu6.edu.cn/hls/cctv11.m3u8
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv11hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-12.png",CCTV12
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-13.png",CCTV13
-http://hdtv.lzu6.edu.cn/hls/cctv13.m3u8
+http://hdtv.lzu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-14.png",CCTV14
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-15.png",CCTV15
-http://hdtv.lzu6.edu.cn/hls/cctv15.m3u8
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv15hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC高清电影.png",CHC高清电影
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/湖南卫视.png",湖南卫视
