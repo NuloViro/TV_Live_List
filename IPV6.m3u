@@ -29,7 +29,7 @@ http://hdtv.lzu6.edu.cn/hls/cctv13hd.m3u8
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-15.png",CCTV15
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv15hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-17.png",CCTV15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CCTV-17.png",CCTV17
 http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NuloViro/TV_Live_List/master/logos/CHC高清电影.png",CHC高清电影
 http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
